@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/instant-invoice/static/css/main.4a537111.css",
-    "main.js": "/instant-invoice/static/js/main.4a3fc568.js",
+    "main.js": "/instant-invoice/static/js/main.998f9ddf.js",
     "static/js/703.71cecdf7.chunk.js": "/instant-invoice/static/js/703.71cecdf7.chunk.js",
     "static/js/455.229ea98c.chunk.js": "/instant-invoice/static/js/455.229ea98c.chunk.js",
     "static/js/787.223550ad.chunk.js": "/instant-invoice/static/js/787.223550ad.chunk.js",
     "index.html": "/instant-invoice/index.html",
     "main.4a537111.css.map": "/instant-invoice/static/css/main.4a537111.css.map",
-    "main.4a3fc568.js.map": "/instant-invoice/static/js/main.4a3fc568.js.map",
+    "main.998f9ddf.js.map": "/instant-invoice/static/js/main.998f9ddf.js.map",
     "703.71cecdf7.chunk.js.map": "/instant-invoice/static/js/703.71cecdf7.chunk.js.map",
     "455.229ea98c.chunk.js.map": "/instant-invoice/static/js/455.229ea98c.chunk.js.map",
     "787.223550ad.chunk.js.map": "/instant-invoice/static/js/787.223550ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4a537111.css",
-    "static/js/main.4a3fc568.js"
+    "static/js/main.998f9ddf.js"
   ]
 }
