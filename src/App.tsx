@@ -16,6 +16,10 @@ function App() {
           <Routes>
             {/* <Route path="invoice" element={<SavePdf  />} /> */}
             {/* <Route path="item" element={<Item />} /> */}
+            <Route
+              path="/instant-invoice"
+              element={<HomePage message="{hello}" />}
+            ></Route>
             <Route path="/" element={<HomePage message="{hello}" />} />
           </Routes>
         </Router>
